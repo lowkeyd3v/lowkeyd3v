@@ -16,7 +16,7 @@ Focused on learning by building — exploring software development, AI/ML, and o
 - 💻 Exploring software development and problem solving
 - 🌱 Learning through projects and open source
 - ⚡ Interested in AI, software systems, and emerging technologies
-- 📬 Reach me at: YOUR_EMAIL
+- 📬 Reach me at: shivanshatu0607@gmail.com
 
 </td>
 
