@@ -27,8 +27,10 @@ Open Source • Software Development • AI/ML
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lowkeyd3v&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lowkeyd3v&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-> “Every line is intentional.”
+> “Learning by building.”
