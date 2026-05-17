@@ -14,7 +14,7 @@
 </td>
 
 <td width="40%">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="100%">
 </td>
 </tr>
 </table>
