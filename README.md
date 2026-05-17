@@ -22,7 +22,7 @@ Focused on learning by building — exploring software development, AI/ML, and o
 
 <td valign="middle" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjc5NnpkNm9yZ2szeWsxeTk4eHBzbXl6d3RpbDhjeGd1M2Vvbnc1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" width="90%" />
 
 </td>
 </tr>
