@@ -11,7 +11,7 @@
 
 ## Hey 👋, I'm Shivansh
 
-Focused on learning by building — exploring software development, AI/ML, and open source through real projects and contributions.
+Focused on learning by building, exploring software development, AI/ML, and open source through hands-on projects and contributions.
 
 - 💻 Exploring software development and problem solving  
 - 🌱 Learning through projects and open source  
