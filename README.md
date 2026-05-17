@@ -1,44 +1,68 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](YOUR_LEETCODE)
+[![GitHub](https://img.shields.io/badge/lowkeyd3v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lowkeyd3v)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
 <table>
 <tr>
-<td width="60%">
+<td valign="top" width="60%">
 
-# Hey 👋, I'm Shivansh
+## Hey 👋, I'm Shivansh
 
-### Open Source • Software Development • AI/ML
+Focused on learning by building — exploring software development, AI/ML, and open source through real projects and contributions.
 
-- 💻 Exploring software development and real-world problem solving  
-- 🌱 Learning by building projects and contributing to open source  
-- 🔥 Contributing through GSSoC 2026  
-- ⚡ Interested in AI, software systems, and emerging technologies  
+- 💻 Exploring software development and problem solving
+- 🌱 Learning through projects and open source
+- ⚡ Interested in AI, software systems, and emerging technologies
+- 📬 Reach me at: YOUR_EMAIL
 
 </td>
 
-<td width="40%">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="100%">
+<td valign="middle" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="90%" />
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech I’m Exploring
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-FF6F00?style=for-the-badge"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=lowkeyd3v&theme=github-dark&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
-## 📌 Current Focus
+## Exploring
 
-- 🚀 Open Source Contributions (GSSoC 2026)  
-- 🛠️ Building real-world projects  
-- 📚 Strengthening software fundamentals  
-- 🤖 Exploring AI/ML  
+<table>
+<tr>
+<td align="center" width="60">
+<img src="https://skillicons.dev/icons?i=python" width="35"/>
+</td>
+
+<td align="center" width="60">
+<img src="https://skillicons.dev/icons?i=java" width="35"/>
+</td>
+
+<td align="center" width="60">
+<img src="https://skillicons.dev/icons?i=git" width="35"/>
+</td>
+
+<td align="center" width="60">
+<img src="https://skillicons.dev/icons?i=github" width="35"/>
+</td>
+
+<td align="center" width="60">
+<img src="https://skillicons.dev/icons?i=vscode" width="35"/>
+</td>
+</tr>
+</table>
 
 ---
 
