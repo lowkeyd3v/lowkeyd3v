@@ -13,10 +13,10 @@
 
 Focused on learning by building — exploring software development, AI/ML, and open source through real projects and contributions.
 
-- 💻 Exploring software development and problem solving
-- 🌱 Learning through projects and open source
-- ⚡ Interested in AI, software systems, and emerging technologies
-- 📬 Reach me at: shivanshatu0607@gmail.com
+- 💻 Exploring software development and problem solving  
+- 🌱 Learning through projects and open source  
+- ⚡ Interested in AI, software systems, and emerging technologies  
+- 📬 Reach me at: **shivanshatu0607@gmail.com**
 
 </td>
 
@@ -38,29 +38,61 @@ Focused on learning by building — exploring software development, AI/ML, and o
 
 ---
 
+## Languages
+
+<table>
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<br><strong>Python</strong>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java" width="40"/>
+<br><strong>Java</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
 ## Exploring
 
 <table>
 <tr>
-<td align="center" width="60">
-<img src="https://skillicons.dev/icons?i=python" width="35"/>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<br><strong>Git</strong>
 </td>
 
-<td align="center" width="60">
-<img src="https://skillicons.dev/icons?i=java" width="35"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<br><strong>GitHub</strong>
 </td>
 
-<td align="center" width="60">
-<img src="https://skillicons.dev/icons?i=git" width="35"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+<br><strong>VS Code</strong>
 </td>
 
-<td align="center" width="60">
-<img src="https://skillicons.dev/icons?i=github" width="35"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
+<br><strong>TensorFlow</strong>
 </td>
 
-<td align="center" width="60">
-<img src="https://skillicons.dev/icons?i=vscode" width="35"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
+<br><strong>PyTorch</strong>
 </td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
+<br><strong>AI/ML</strong>
+</td>
+
 </tr>
 </table>
 
