@@ -22,7 +22,7 @@ Focused on learning by building — exploring software development, AI/ML, and o
 
 <td valign="middle" width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="90%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90%" />
 
 </td>
 </tr>
