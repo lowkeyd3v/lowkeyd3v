@@ -74,11 +74,6 @@ Focused on learning by building, exploring software development, AI/ML, and open
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-<br><strong>VS Code</strong>
-</td>
-
-<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
 <br><strong>TensorFlow</strong>
 </td>
